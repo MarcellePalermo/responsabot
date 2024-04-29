@@ -1,5 +1,6 @@
 ## 💡 ResponsaBot 
-Chatbot para plataforma ESG
+Chatbot para plataforma ESG - <a href="https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-c11cdaa4-283d-41a9-8e63-2eacb4863a12%3A%3A4e642eca-d2f7-491d-aa83-1bf98649636d&integrationID=d13c78ee-425f-455d-9671-f025ed8c2eca&region=au-syd&serviceInstanceID=c11cdaa4-283d-41a9-8e63-2eacb4863a12">Teste o ResponsaBot</a> através deste link! :)
+
 ![image](https://github.com/MarcellePalermo/responsabot/assets/111618784/8706e9e5-9548-4a75-8c29-e59ee43d9c2d)
 
 ## 💡 ACTIONS
